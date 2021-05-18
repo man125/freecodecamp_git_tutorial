@@ -1,0 +1,3 @@
+Second Chapter
+Git checkout -b means to "change my local project to look exactly like the project looked at some specific point in time." 
+You can think of a branch as a pointer to a specific timeline of the Git history.
