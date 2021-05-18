@@ -1,0 +1,4 @@
+This an example of a book Chapter1. This works to explain how git works in parallel with the
+use of multiple branches.
+
+Link git introduction: https://www.freecodecamp.org/news/practical-git-and-git-workflows/ 
