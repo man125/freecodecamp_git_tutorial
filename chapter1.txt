@@ -2,3 +2,5 @@ This an example of a book Chapter1. This works to explain how git works in paral
 use of multiple branches.
 
 Link git introduction: https://www.freecodecamp.org/news/practical-git-and-git-workflows/ 
+
+line 6 - git restore . rollback to last version (not staged changes)
